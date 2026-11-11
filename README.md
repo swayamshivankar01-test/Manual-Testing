@@ -103,7 +103,3 @@ Requirement (FR/NFR)  →  Test Scenario (TS)  →  Test Case (TC)  →  Bug Rep
 - Add an execution-status column (Pass / Fail / Blocked) and actual results to the test case sheet.
 - Add a requirements traceability matrix (RTM) as a spreadsheet.
 - Cover the non-functional requirements (load time, browser/device compatibility, security).
-
-## Repository
-
-Source: <https://github.com/swayamshivankar01-test/Manual-Testing>
